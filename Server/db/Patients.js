@@ -1,4 +1,4 @@
-const { DataTypes } = require('sequelize');
+const { DataTypes, Sequelize } = require('sequelize');
 const sequelize = require('./db');
 
 const Patient = sequelize.define('Patient', {
@@ -21,6 +21,10 @@ const Patient = sequelize.define('Patient', {
     status: {
         type: DataTypes.STRING,
         defaultValue: 'waiting'
+    },
+    createdAt:{
+        type:Sequelize.DATE,
+        defaultValue:Sequelize.NOW
     }
 });
 
