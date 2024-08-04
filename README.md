@@ -6,17 +6,19 @@ First of all, I created a Database called hospital_triage in Postgresql( My post
 
 **Description of the App:**
 
-When you start the react server you re welcomed by this page![Une image contenant texte, capture d’écran, logiciel, ordinateur
+When you start the react server you re welcomed by this page!
+
+![screenshot0](https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(339).png)
 
 
 When you click on the button you ll have a page to register in the queue of the triage system.
 
-![screenshot1](https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(339).png)
+![screenshot1](https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(340).png)
 
 
 After got registered you will be redirected to a page that shown the approximately wait time!
 
-![screenshot2](https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(340).png)
+![screenshot2](https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(341).png)
 
 
 Now for the admin you can follow every steps stated on top. But when you ll get asked to register to the triage app instead enter “admin” for the name and “adm” for the code you will instead get redirected to the admin page when you can see every patients in a sorted queue( to make the most severe patient a t the top of the list) The admin can now chose to treat a patient by pressing the button.
