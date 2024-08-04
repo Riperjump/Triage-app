@@ -11,7 +11,7 @@ When you start the react server you re welcomed by this page![Une image contenan
 
 When you click on the button you ll have a page to register in the queue of the triage system.
 
-![Une image contenant texte, capture d’écran, ordinateur, logiciel
+(https://github.com/Riperjump/Triage-app/blob/main/img/Screenshot%20(339).png)
 
 
 After got registered you will be redirected to a page that shown the approximately wait time![Une image contenant capture d’écran, logiciel, ordinateur, texte
